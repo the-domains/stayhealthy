@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Attaining health is one thing. Staying healthy is a huge challenge. '
-datePublished: '2016-04-25T22:56:57.426Z'
-dateModified: '2016-04-25T22:52:05.886Z'
+datePublished: '2016-04-25T22:58:23.820Z'
+dateModified: '2016-04-25T22:57:03.896Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-stay-healthy-balanced-and-in-the-zone.md
@@ -31,6 +31,8 @@ There will be some daily actions to take, such as walking for example.
 Included also is an exercise program developed by combining ancient rituals into a flowing and dynamic set of steps to fully energize and balance body and mind. 
 
 Nutrition will be incorporated through the use of a smoothie recipe that can be adapted into a personal regimen to cleanse, feed, supplement and tune the body. All organs and systems and needs will be addressed.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fca5d9f1-5e11-4f65-a2b5-348b086a9afe.jpg)
+
+  
+
 
 [0]: null
