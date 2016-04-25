@@ -1,0 +1,28 @@
+name: Healthy
+favicon: null
+layout_spectrum: 0.8541509576607496
+typography_spectrum: 0.2680419322568923
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9220696948468685
+  lightness: 0.781386919785291
+  saturation: 0.39210108667612076
+  rhythmicContrast: 0.5948625898454338
+purpose: []
